@@ -1,6 +1,6 @@
 [package]
 name = "player_moovia"
-version = "0.1.0"
+version = "0.1.1"
 description = "Player desktop de biblioteca pessoal de vídeos"
 authors = ["Sidnei"]
 edition = "2021"

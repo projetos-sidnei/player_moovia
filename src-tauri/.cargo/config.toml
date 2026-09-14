@@ -1,0 +1,4 @@
+# Paralelismo alto derruba o rustc nesta máquina (STATUS_STACK_BUFFER_OVERRUN).
+# Ver contexto/ESTADO.md — vale para dev e release.
+[build]
+jobs = 4

@@ -1,0 +1,2 @@
+ALTER TABLE collections
+    ADD COLUMN show_thumbnails BOOLEAN NOT NULL DEFAULT TRUE;
